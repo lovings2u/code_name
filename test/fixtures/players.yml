@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  references: 
+  team_type: MyString
+  hint_count: 1
+  clear_list: MyString
+  stage_time: 2017-08-07 00:31:18
+
+two:
+  references: 
+  team_type: MyString
+  hint_count: 1
+  clear_list: MyString
+  stage_time: 2017-08-07 00:31:18
